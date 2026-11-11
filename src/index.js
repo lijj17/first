@@ -53,6 +53,7 @@ export default {
     <p>荔枝</p>
     <p>苹果</p>
     <p>山竹</p>
+    <p>李希航</p>
     <span class="badge">Deployed via Wrangler</span>
   </div>
 </body>
