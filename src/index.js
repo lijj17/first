@@ -48,6 +48,7 @@ export default {
     <h1>Hello, World! 👋</h1>
     <p>This page is powered by Cloudflare Workers李晶晶</p>
     <p>香蕉</p>
+    <p>橘子</p>
     <span class="badge">Deployed via Wrangler</span>
   </div>
 </body>
