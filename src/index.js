@@ -50,6 +50,7 @@ export default {
     <p>菠萝</p>
     <p>橘子</p>
     <p>芒果</p>
+    <p>荔枝</p>
     <span class="badge">Deployed via Wrangler</span>
   </div>
 </body>
