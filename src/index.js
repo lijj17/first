@@ -47,7 +47,7 @@ export default {
   <div class="card">
     <h1>Hello, World! 👋</h1>
     <p>This page is powered by Cloudflare Workers李晶晶</p>
-    <p>菠萝</p>
+    <p>香蕉</p>
     <p>橘子</p>
     <p>芒果</p>
     <p>荔枝</p>
