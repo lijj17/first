@@ -47,6 +47,7 @@ export default {
   <div class="card">
     <h1>Hello, World! 👋</h1>
     <p>This page is powered by Cloudflare Workers李晶晶</p>
+    <p>香蕉</p>
     <span class="badge">Deployed via Wrangler</span>
   </div>
 </body>
