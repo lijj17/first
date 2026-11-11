@@ -49,6 +49,7 @@ export default {
     <p>This page is powered by Cloudflare Workers李晶晶</p>
     <p>菠萝</p>
     <p>橘子</p>
+    <p>芒果</p>
     <span class="badge">Deployed via Wrangler</span>
   </div>
 </body>
